@@ -1,5 +1,5 @@
 # Notice
-fork from [![](https://github.com/go-steem/rpc)](https://github.com/go-steem/rpc), It seems that the project has not been updated, but I need to use it, so I copied and modified its dependencies to go Module mode
+fork from https://github.com/go-steem/rpc, It seems that the project has not been updated, but I need to use it, so I copied and modified its dependencies to go Module mode
 
 # go-steem/rpc
 
